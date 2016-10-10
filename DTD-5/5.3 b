@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libros SYSTEM "file:///E:/Lenguaje%20de%20Marcas/DTDs/DTD-5/5_3.dtd">
+<libros>
+<Libro isbn="J234" fecha="24-de-abril" paginas="200" nivel="alto" autor="Jose Martinez" editor="Emtpai">
+<Titulo>La caida del imperio</Titulo>
+<Comentarios>Obra maestra</Comentarios>
+<Comentarios>La mejor obra de la decada</Comentarios>
+<Categoria>Velica</Categoria>
+<Categoria>Terror</Categoria>
+<Precio moneda="eur">24</Precio>
+</Libro>
+</libros>

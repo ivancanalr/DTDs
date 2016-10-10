@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libros SYSTEM "5_3.dtd">
+<libros>
+<libro ID="J234" fecha="24-de-abril" paginas="200">
+<Titulo>La caida del imperio</Titulo>
+<Comentarios>Obra maestra</Comentarios>
+<Categoria>Velica</Categoria>
+<Precio>25€</Precio>
+</libro>
+</libros>

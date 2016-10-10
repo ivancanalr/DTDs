@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreta-direcciones SYSTEM "file:///E:/Lenguaje%20de%20Marcas/DTDs/libreta-direcciones.dtd">
+<libreta-direcciones>
+<entrada>
+<nombre>Juan Nadie</nombre>
+<direccion>
+<calle>34 Plaza Vacia</calle>
+<region>Asturias</region>
+<codigo-postal>33203</codigo-postal>
+<localidad>Desconocida</localidad>
+<pais>Sin Tierra</pais>
+</direccion>
+<telefono>516-555-8889</telefono>
+<correo-e href="mailto:nadie@sincorreo.com"/>
+</entrada>
+</libreta-direcciones>
