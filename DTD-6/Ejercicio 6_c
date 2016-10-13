@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cd SYSTEM "file:///E:/Lenguaje%20de%20Marcas/DTDs/DTD-6/DTD%206c.dtd">
+<cd titulo="Mix vol2">
+ <fecha dia="3" mes="marzo" anio="1978"/>
+  <songs>
+    <song length="6.20" anio="1978">
+      <title>Hot Cop</title>
+        <composers>
+    <composer>
+      <nombre>Henry</nombre>
+      <apellidos>Baolo</apellidos>
+    </composer>
+  </composers>
+  <producers>
+    <producer>
+      <nombre>Jacquas</nombre>
+      <apellidos>Morali</apellidos>
+    </producer>
+  </producers>
+  <publisher>PolyGram</publisher>
+    <artist>Village People</artist>
+    </song>
+    <song length="5.20" anio="1978">
+      <title>California City</title>
+        <composers>
+    <composer>
+      <nombre>Henry</nombre>
+      <apellidos>Baolo</apellidos>
+    </composer>
+  </composers>
+  <producers>
+    <producer>
+      <nombre>Jacquas</nombre>
+      <apellidos>Morali</apellidos>
+    </producer>
+  </producers>
+  <publisher>PolyGram</publisher>
+    <artist>Village People</artist>
+    </song>
+  </songs>
+
+</cd>
+

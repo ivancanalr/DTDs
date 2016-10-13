@@ -1,0 +1,22 @@
+﻿<!ELEMENT cd (songs)>
+<!ELEMENT songs (song)>
+<!ELEMENT song (title,composers,producers,publisher,artist)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT composers (composer+)>
+<!ELEMENT composer (nombre,apellidos)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT producers (producer+)>
+<!ELEMENT producer (nombre,apellidos)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT artists (artist)>
+<!ELEMENT artist (#PCDATA)>
+<!ELEMENT fecha EMPTY>
+<!ATTLIST fecha dia CDATA #REQUIRED>
+<!ATTLIST fecha mes CDATA #REQUIRED>
+<!ATTLIST fecha anio CDATA #REQUIRED>
+<!ATTLIST song length CDATA #IMPLIED>
+<!ATTLIST song anio CDATA #REQUIRED>
+<!ATTLIST cd titulo NMTOKEN #REQUIRED>
