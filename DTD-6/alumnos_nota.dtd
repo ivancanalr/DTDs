@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Alumnos SYSTEM "file:///E:/Lenguaje%20de%20Marcas/DTDs/DTD-6/ejercicio%206_3.dtd">
+<Alumnos>
+<Alumno dni="53554215D" edad="23" comentario="progresa adecuadamente">
+<Nombre>Adrian Miguel</Nombre>
+<Apellidos>Lopez</Apellidos>
+<Direccion>
+<calle>Camino del rubin</calle>
+<numero>2</numero>
+<piso>1</piso>
+<poblacion>Gijon</poblacion>
+<codigopostal>33215</codigopostal>
+</Direccion>
+<nota>5</nota>
+</Alumno>
+<Alumno dni="48512654E" edad="35" comentario="progresa adecuadamente">
+<Nombre>Jorge Jesus</Nombre>
+<Apellidos>Martinez Lopez</Apellidos>
+<Direccion>
+<calle>Camino de las magnolias</calle>
+<numero>223</numero>
+<piso>1</piso>
+<poblacion>Gijon</poblacion>
+<codigopostal>33203</codigopostal>
+</Direccion>
+<nota>7</nota>
+</Alumno>
+<Alumno dni="10254879Y" edad="18">
+<Nombre>Mariano</Nombre>
+<Apellidos>Rajoy</Apellidos>
+<Direccion>
+<calle>La moncloa</calle>
+<numero>4</numero>
+<piso>bajo</piso>
+<poblacion>Gijon</poblacion>
+<codigopostal>33214</codigopostal>
+</Direccion>
+<nota>4</nota>
+</Alumno>
+</Alumnos>

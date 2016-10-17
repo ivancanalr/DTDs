@@ -1,18 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE song [
 <!ELEMENT song (title,composers,producers,publisher,artist)>
-<!ELEMENT title (#PCDATA)
+<!ELEMENT title (#PCDATA)>
 <!ELEMENT composers (composer+)>
-<!ELEMENT composer (nombre,apellidos)
-<!ELEMENT nombre (#PCDATA)>9o9.9.
+<!ELEMENT composer (nombre,apellidos)>
+<!ELEMENT nombre (#PCDATA)>
 <!ELEMENT apellidos (#PCDATA)>
 <!ELEMENT producers (producer+)>
 <!ELEMENT producer (nombre,apellidos)>
 <!ELEMENT nombre (#PCDATA)>
 <!ELEMENT apellidos (#PCDATA)>
 <!ELEMENT publisher (#PCDATA)>
-<!ELEMENT artirsts (artist)>
+<!ELEMENT artists (artist)>
 <!ELEMENT artist (#PCDATA)>
 <!ATTLIST song length CDATA #IMPLIED>
 <!ATTLIST song anio CDATA #REQUIRED>
 ]>
+
+<song length="6:20" anio="1978">
+<title>Hot Cop</title>
+<composers>
+<composer>
+<nombre>Henry</nombre>
+<apellidos>Beolo</apellidos>
+</composer>
+</composers>
+<producers>
+<producer>
+<nombre>Jacquas</nombre>
+<apellidos>Morali</apellidos>
+</producer>
+</producers>
+<publisher>PolyGram</publisher>
+<artists>
+<artist>Village People</artist>
+</artists>
+</song>
